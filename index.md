@@ -1,5 +1,5 @@
-# My Website Title 
-Marine Life - Penguin
+# Marine Life - Penguin
+
 My first website using Markdown and GitHub Pages.
 
 ## Links (Two hashes is a second level heading)
